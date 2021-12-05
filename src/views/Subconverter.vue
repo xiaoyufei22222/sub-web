@@ -406,9 +406,6 @@ export default {
               }
             ]
           },
-          {
-            label: "customized",
-            options: [
               {
                 label: "Maying",
                 value:

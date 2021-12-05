@@ -257,11 +257,7 @@ export default {
         },
         backendOptions: [{ value: "http://101.133.237.214:25500/sub?" }],
         remoteConfig: [
-        
-          {
-            label: "universal",
-            options: [
-            {
+        {
             label: "ACL4SSR",
             options: [
               {
@@ -371,6 +367,7 @@ export default {
               }
             ]
           },
+         
               {
                 label: "No-Urltest",
                 value:
